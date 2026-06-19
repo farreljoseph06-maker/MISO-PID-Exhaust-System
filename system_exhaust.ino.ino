@@ -66,7 +66,7 @@ void loop() {
     myPIDAsap.Compute(); 
   }
   
-  // loop PID Thermal fail save kalau avatarnya kepanasan
+  // loop PID ke-2 (kerbau)-->Thermal fail save kalau avatarnya kepanasan
   PV_Suhu = dht.readTemperature();
   
   // Failsafe kalo sensor lepas atau buta (tidak terbaca)
