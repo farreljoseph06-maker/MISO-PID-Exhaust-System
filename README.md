@@ -1,4 +1,4 @@
-# Multi-Input Single-Output (MISO) Dual-Loop PID Controller
+# Multi-Input Single-Output (MISO) Dual-Loop PID Controller (my first project :D)
 
 This repository contains the hardware codebase and software simulation for an Industrial-grade Exhaust System using Override Control Logic.
 
