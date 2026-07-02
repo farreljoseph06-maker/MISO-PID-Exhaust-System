@@ -20,4 +20,5 @@ This repository contains the hardware codebase and software simulation for an In
 
 ## 📸 System Demonstration
 *<img width="1599" height="899" alt="Alat" src="https://github.com/user-attachments/assets/1d6c5c90-d8d4-4bbb-90b9-3f6d459107fc" />
-*<img width="1920" height="1080" alt="Scope Simulink" src="https://github.com/user-attachments/assets/614b53c4-48b0-4d4a-9a58-7926a4197ebd" />
+*<img width="1920" height="1080" alt="Screenshot (1232)" src="https://github.com/user-attachments/assets/5e7ebc5c-d920-49d5-957a-43b080c2160f" />
+
